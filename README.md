@@ -2,6 +2,5 @@
 Official Public Chemcremental Web Build Repo.
 
 ## Contributors
--FlamemasterNXF: Made the Web Builds.
-
--VoidCloud: Made the original Game.
+-FlamemasterNXF: Made the Web Builds.<br>
+-VoidCloud: Made the Game.<br>
