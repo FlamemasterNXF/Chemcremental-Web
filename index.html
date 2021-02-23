@@ -3,13 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Chemcremental</title>
+    <title>Chemcremental</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
     <script src="Build/UnityLoader.js"></script>
     <script>
-      UnityLoader.instantiate("unityContainer", "Build/testing-githubpages.json");
+      UnityLoader.instantiate("unityContainer", "Build/Build.json");
     </script>
   </head>
   <body>
-    <div id="unityContainer" style="width: 960px; height: 600px; margin: auto"></div>
+    <div id="unityContainer" style="width: 960px; height: 600px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"></div>
   </body>
 </html>
